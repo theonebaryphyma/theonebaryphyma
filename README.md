@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theonebaryphyma
 - 👀 I’m interested in DB management, Desktop App Dev, FPGA boards, Handwiring keyboards and Hackintosh
 - 🌱 I’m currently learning Swift, VHDL, Visual, Basic
-- 💞️ I’m looking to collaborate on.....(Lost my tain of thoughts)
+- 💞️ I’m looking to collaborate on.....
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been at this shit since I was 7 years old
